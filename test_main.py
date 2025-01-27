@@ -1,9 +1,9 @@
-# основной - 7642062862:AAFAE1pVpNMj-n2fq4z0Ke4LHpqzJP_QMc4
-# тестовый - 5474763078:AAH7e7uM0G1MFYs12wZ5BkZCzBjfmpyuxos
+# основной - ******
+# тестовый - ******
 
-token = '7642062862:AAFAE1pVpNMj-n2fq4z0Ke4LHpqzJP_QMc4'
-test = '5474763078:AAH7e7uM0G1MFYs12wZ5BkZCzBjfmpyuxos'
-adminka = "adminsetsum"
+token = ''
+test = ''
+adminka = ""
 
 import telebot, re
 from telebot import types
@@ -19,7 +19,7 @@ from random import choice
 
 from threading import Thread
 
-# my ID - 363231337
+# my ID - *******
 
 # Создаем бота
 bot = telebot.TeleBot(test)
